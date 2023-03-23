@@ -1,0 +1,6 @@
+{
+    var emissor
+    var receptor
+    
+    
+}

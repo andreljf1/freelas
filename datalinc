@@ -1,0 +1,3 @@
+create database licenca
+create table registro
+create table autenticação

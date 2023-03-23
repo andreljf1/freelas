@@ -1,0 +1,12 @@
+{
+    var import = sys.txt
+    var aut
+if import = on 
+{
+    print (aut.ssql)
+    
+    else {
+        return 
+    }
+}
+}

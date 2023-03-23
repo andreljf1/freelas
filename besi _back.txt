@@ -1,0 +1,15 @@
+{
+    for besi => 100 {
+        besi+;
+        besi = besi _back_profunda;
+    }
+    
+    if besi > 100 {
+        print ( sistema em faze critica);
+        besi = besi _back _profunda;
+        else {
+            besi = besi _back_prpfunda;
+        }
+        
+    }
+}    
